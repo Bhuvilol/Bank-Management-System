@@ -23,6 +23,10 @@ The Banking System is a Java Swing application that simulates basic banking oper
 
 
 
+https://github.com/Bhuvilol/Bank-Management-System/assets/147243844/f29f44af-bbbc-4c58-8b47-8460b9f876df
+
+
+
 
 ## Technologies Used
 - Java
