@@ -43,8 +43,8 @@ https://github.com/Bhuvilol/Bank-Management-System/assets/147243844/f29f44af-bbb
    ```
 2. Run Project
    ```bash
-   javac Main.java
-   java Main
+   javac Login.java
+   java Login
    ```
 ## Usage
 1. Launch the application.
